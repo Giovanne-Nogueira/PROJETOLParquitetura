@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+}
+#menu-inicial{
+    background-color: #303030;
+    color: #FFFFFF;
+    padding: 20vb 30vb 20vb 10vb;
+    font-family: 'Inter';
+    font-style: normal;
+}
+#titulo{
+    font-size:60px;
+    margin-bottom: 20px;
+}
+#subtitulo{
+    font-size: 35px;
+}
+#conquistas{
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    background-color: #F9F9F9;
+}
+.conq{
+    padding: 8vb;
+    margin-left: 9vb;
+
+}
+#hist{
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    text-align: justify;
+}
+#hist-resume{
+    padding: 35vb 12vb;
+    font-size: 20px;
+    text-align: justify;
+}
+#sub-hist{
+    margin-top: 5vb;
+}
+#titulo-hist{
+    font-size: 40px;
+}
+img{
+    padding-top: 8vb;
+    padding-right: 8vb;
+    Width:71vb;
+    Height:85vb;
+}
+#dados{
+   text-align: center;
+   background-color: #303030;
+}
+#titulo-form{
+    font-size: 32px;
+    color: #FFFFFF;
+    padding-top: 9vb;
+}
+input{
+    font-size: 24px;
+    padding: 1.5vb;
+    border-radius: 7px;
+    width:59vb;
+    margin-top: 5vb;
+    border: none;
+    color: #0000004D;
+}
+button{
+    font-size: 24px;
+    padding: 1.5vb;
+    border-radius: 7px;
+    width:28vb;
+    margin-top: 11vb;
+    border: none;
+    background-color: #C07212;
+    margin-bottom: 17vb;
+}
